@@ -20,7 +20,7 @@ However, Microsoft Excel has two different versions of the standard deviation ca
 The STDEV.P function performs the above calculation but in the STDEV.S calculation the division is by len(x)-1 ratherthan len(x) . <br/> Research these Excel functions, writing a note in a Markdown cell about the difference between them. <br/>
 Then use numpy to perform a simulation demonstrating that the STDEV.S calculation is a better estimate <br/>
 for the standard deviation of a population when performed on a sample. <br/>
-Note that part of this taskis to figure out the terminology in the previous sentence.
+Note that part of this taskis to figure out the terminology in the previous sentence. <br />
 Task 4 <br/>
 NB – when I first posted this task, I accidentally
 wrote “k-means” where I meant to write “kNN” for k Nearest Neighbours. Because of this, I will allow either algorithm to be used and have
