@@ -22,5 +22,7 @@ Then use numpy to perform a simulation demonstrating that the STDEV.S calculatio
 for the standard deviation of a population when performed on a sample. <br/>
 Note that part of this taskis to figure out the terminology in the previous sentence.
 Task 4 <br/>
-TBA <br/>
+NB – when I first posted this task, I accidentally
+wrote “k-means” where I meant to write “kNN” for k Nearest Neighbours. Because of this, I will allow either algorithm to be used and have
+extended the deadline by two weeks. Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris. <br/>
 <br/>
